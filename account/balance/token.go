@@ -1,0 +1,5 @@
+package balance
+
+func GetTokenBalance() {
+
+}
